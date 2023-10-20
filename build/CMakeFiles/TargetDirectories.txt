@@ -1,0 +1,3 @@
+/home/panzhuo/webserver/webserver/build/CMakeFiles/a.out.dir
+/home/panzhuo/webserver/webserver/build/CMakeFiles/edit_cache.dir
+/home/panzhuo/webserver/webserver/build/CMakeFiles/rebuild_cache.dir
